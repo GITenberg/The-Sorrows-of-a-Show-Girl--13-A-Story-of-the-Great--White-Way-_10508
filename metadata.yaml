@@ -1,0 +1,22 @@
+_repo: The-Sorrows-of-a-Show-Girl--13-A-Story-of-the-Great--White-Way-_10508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McGaffey, Kenneth
+    gutenberg_agent_id: '3563'
+    url: http://www.gutenberg.org/2009/agents/3563
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "The Sorrows of a Show Girl\r\nA Story of the Great \"White Way\""
+url: http://www.gutenberg.org/ebooks/10508
